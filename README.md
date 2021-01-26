@@ -42,7 +42,7 @@ elif button_location is not None:
 
 ```
 
-<img align="center" src="https://github.com/rainmankim/kakaotalk_automation/blob/master/images/kakao_login_main.PNG" alt="Kakao Login">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105826059-4987d200-5ffb-11eb-8724-0eb35fb0eac9.png" alt="Kakao Login">
 
 ### 흐려서 잘 안보이지만 아래 이미지 비슷한 픽셀을 찾는 겁니다.
 <img align="center" src="https://github.com/rainmankim/kakaotalk_automation/blob/master/images/login_login.PNG" alt="Login ">
