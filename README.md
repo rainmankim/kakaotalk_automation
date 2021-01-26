@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/rainmankim/kakaotalk_automation/blob/master/images/KakaoTalk-team.jpg" alt="Kakao Team">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105825928-1e9d7e00-5ffb-11eb-991a-097e7aa9130e.jpg" alt="Kakao Team">
 
 # 파이썬으로 카카오톡 자동화시키기
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
