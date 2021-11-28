@@ -33,7 +33,7 @@ Pyautogui 와 opencv 를 위주로 자동화가 되는데요.
 
 button_location = pyautogui.locateOnScreen('images/login_login.png', confidence=0.9)  
 
-## 자세한 내용은 첨부된 ver 1.1 코드 파일을 참조해주세요.  
+.  
 
 if button_location is None and button_location_2 is None:
     print("패스워드 버튼 찾기 실패 ㅠㅠ")
@@ -49,7 +49,7 @@ elif button_location is not None:
 ### 흐려서 잘 안보이지만 아래 이미지 비슷한 픽셀을 찾는 겁니다.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105826183-6ae8be00-5ffb-11eb-8089-bb177772ae8e.png" alt="Login ">
 
-
+## 자세한 내용은 첨부된 ver 1.1 코드 파일을 참조해주세요
 
 ## Credits
 ```
